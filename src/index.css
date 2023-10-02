@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* 
+body{
+ background-image: url('/public/background.jpg');
+ -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:'100vh'
+} */
+
+/* style={{background: `url('/public/background.jpg') `, width:'full',  backgroundSize:'cover', height:'100vh', opacity:'0.04',  }} */
